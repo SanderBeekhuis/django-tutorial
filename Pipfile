@@ -9,6 +9,7 @@ django = "*"
 [dev-packages]
 ipython = "*"
 jedi = "<0.18"  # 2021-01-15 ipython 7.19.0 broken with lastest JEDI https://github.com/ipython/ipython/issues/12753
+redgreenunittest = "*"
 
 [requires]
 python_version = "3.9"
